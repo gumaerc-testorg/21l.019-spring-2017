@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Essays
 uid: c25bec97-eb35-9edf-7411-fbb08661dbcd
 ---

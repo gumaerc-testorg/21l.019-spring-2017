@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings & Films
+parent_type: CourseSection
 parent_uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 title: Notes on Les Liaisons dangereuses to Letter 22
 uid: b70a42fb-072e-fd84-44ae-aad509aa065d

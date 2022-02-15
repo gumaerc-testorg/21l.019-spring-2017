@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Essays
+parent_type: CourseSection
 parent_uid: c25bec97-eb35-9edf-7411-fbb08661dbcd
 title: Third Essay
 uid: e952322f-0696-73c6-467a-080371c934be

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Essays
+parent_type: CourseSection
 parent_uid: c25bec97-eb35-9edf-7411-fbb08661dbcd
 title: Fourth Essay
 uid: 948e1338-15e9-ec57-7125-0e2210b367ef
