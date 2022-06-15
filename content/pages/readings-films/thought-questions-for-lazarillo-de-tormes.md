@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of reading questions from the instructor
+  for the book Lazarillo de Tormes.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

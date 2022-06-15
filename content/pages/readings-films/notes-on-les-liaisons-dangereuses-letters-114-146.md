@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section contains instructor notes on on Les Liaisons dangereuses\
+  \ Letters 114\u2013146."
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

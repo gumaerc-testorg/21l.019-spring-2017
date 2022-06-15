@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructor notes for the second half of Therese
+  Raquin.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

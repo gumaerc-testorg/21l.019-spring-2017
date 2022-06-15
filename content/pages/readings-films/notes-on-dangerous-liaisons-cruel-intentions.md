@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains notes on the films Dangerous Liaisons and Cruel
+  Intentions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
