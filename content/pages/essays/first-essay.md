@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section contains a list of prompts for the first essay, which focuses
+  on the novel Les Liaisons dangereuses.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Essays
+parent_type: CourseSection
 parent_uid: c25bec97-eb35-9edf-7411-fbb08661dbcd
 title: First Essay
 uid: 77b1fc7c-3178-0d94-556d-56542dba41a7
 ---
 
-![A drawing of Count Valmont from Les Liaisons dangereuses by Aubrey Beardsley.]({{< resource_file 2fe90f2d-5e80-13c4-2d23-ccec664c08f6 >}})  
+{{< resource 2fe90f2d-5e80-13c4-2d23-ccec664c08f6 >}}  
 
 (This image is in the public domain.)
 

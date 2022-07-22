@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains a list of readings and films for the course. '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings & Films
 uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 ---
@@ -54,7 +58,7 @@ Discuss: _Lazarillo de Tormes_
 
 \[LDT\] Finish reading
 
-[Thought questions on _Lazarillo de Tormes_]({{< baseurl >}}/pages/readings-films/thought-questions-for-lazarillo-de-tormes)
+{{% resource_link fc99809e-7863-a4c7-61c8-288b97f3cb7f "Thought questions on _Lazarillo de Tormes_" %}}
 
 
 {{< tdclose >}}
@@ -72,7 +76,7 @@ Discuss: _Lazarillo de Tormes_
 
 \[LLD\] Read to Letter 22
 
-[Notes on _Les Liaisons dangereuses_ to Letter 22]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-to-letter-22)
+{{% resource_link b70a42fb-072e-fd84-44ae-aad509aa065d "Notes on _Les Liaisons dangereuses_ to Letter 22" %}}
 
 
 {{< tdclose >}}
@@ -90,7 +94,7 @@ _Les Liaisons dangereuses_
 
 \[LLD\] Read to Letter 82
 
-[Notes on _Les Liaisons dangereuses_ Letters 40–99]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-40-99)
+{{% resource_link 1a1055df-c615-ffcb-8ba4-fceddedbc54d "Notes on _Les Liaisons dangereuses_ Letters 40–99" %}}
 
 
 {{< tdclose >}}
@@ -108,7 +112,7 @@ Discuss: _Les Liaisons dangereuses_
 
 \[LLD\] Read to Letter 146
 
-[Notes on _Les Liaisons dangereuses_ Letters 114–146]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-114-146)
+{{% resource_link a86123d5-7565-6eae-96ec-35aea9513050 "Notes on _Les Liaisons dangereuses_ Letters 114–146" %}}
 
 
 {{< tdclose >}}
@@ -126,7 +130,7 @@ Discuss: _Les Liaisons dangereuses_
 
 \[LLD\] Finish reading
 
-[Notes on _Les Liaisons dangereuses_ Letters 147–End]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-147-end)
+{{% resource_link 17472cf3-7300-7407-36d6-1618caaef61c "Notes on _Les Liaisons dangereuses_ Letters 147–End" %}}
 
 
 {{< tdclose >}}
@@ -156,7 +160,7 @@ Discuss film: _Dangerous Liaisons_
 
 Watch: _[Cruel Intentions](http://www.imdb.com/title/tt0139134/?ref_=nv_sr_1)_
 
-[Notes on _Dangerous Liaisons_ and _Cruel Intentions_]({{< baseurl >}}/pages/readings-films/notes-on-dangerous-liaisons-cruel-intentions)
+{{% resource_link e727c41d-5f8b-db72-46bf-befc29156903 "Notes on _Dangerous Liaisons_ and _Cruel Intentions_" %}}
 
 
 {{< tdclose >}}
@@ -180,7 +184,7 @@ Compare two movie versions
 
 \[TR\] Start reading
 
-[Important moments in Thérèse Raquin (first half)]({{< baseurl >}}/pages/readings-films/important-moments-in-therese-raquin-first-half)
+{{% resource_link 2be3631d-958d-fa96-e8dc-a4c25d02ab81 "Important moments in Thérèse Raquin (first half)" %}}
 
 
 {{< tdclose >}}
@@ -210,7 +214,7 @@ Discuss: _Thérèse Raquin_
 
 \[TR\] Finish reading
 
-[Important moments in Thérèse Raquin (second half)]({{< baseurl >}}/pages/readings-films/important-moments-in-therese-raquin-second-half)
+{{% resource_link b166a9ba-6b0f-7522-82ab-36ce888a6032 "Important moments in Thérèse Raquin (second half)" %}}
 
 
 {{< tdclose >}}

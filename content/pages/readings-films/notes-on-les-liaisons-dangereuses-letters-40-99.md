@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: "This section contains instructor notes on Les Liaisons dangereuses Letters\
+  \ 40\u201399."
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings & Films
+parent_type: CourseSection
 parent_uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 title: Notes on Les Liaisons dangereuses Letters 40-99
 uid: 1a1055df-c615-ffcb-8ba4-fceddedbc54d

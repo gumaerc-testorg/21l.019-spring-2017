@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains instructor notes on Les Liaisons dangereuses Letters
+  147 to the end of the book.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings & Films
+parent_type: CourseSection
 parent_uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 title: "Notes on Les Liaisons dangereuses Letters 147\u2013End"
 uid: 17472cf3-7300-7407-36d6-1618caaef61c

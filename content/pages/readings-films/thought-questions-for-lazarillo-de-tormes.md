@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains a list of reading questions from the instructor
+  for the book Lazarillo de Tormes.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings & Films
+parent_type: CourseSection
 parent_uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 title: Thought Questions for Lazarillo de Tormes
 uid: fc99809e-7863-a4c7-61c8-288b97f3cb7f

@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: "This section contains prompts for the Second Essay, which focuses on\
+  \ the books Th\xE9r\xE8se Raquin and Dom Casmurro."
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Essays
+parent_type: CourseSection
 parent_uid: c25bec97-eb35-9edf-7411-fbb08661dbcd
 title: Second Essay
 uid: b093afb1-85c6-e275-6ea8-97608493498d
 ---
 
-´![A scan of an advertisement for Thérèse Raquin, c. 1867.]({{< resource_file 4064360e-4bd1-6af6-c3af-a0eaf4987869 >}})  
+´{{< resource 4064360e-4bd1-6af6-c3af-a0eaf4987869 >}}  
 
 (This image is in the public domain.)
 

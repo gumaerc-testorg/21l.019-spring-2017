@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains instructor notes for the second half of Therese
+  Raquin.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings & Films
+parent_type: CourseSection
 parent_uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 title: "Important Moments in Th\xE9r\xE8se Raquin (Second Half)"
 uid: b166a9ba-6b0f-7522-82ab-36ce888a6032

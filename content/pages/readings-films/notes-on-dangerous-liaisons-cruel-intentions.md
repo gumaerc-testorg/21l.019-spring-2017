@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains notes on the films Dangerous Liaisons and Cruel
+  Intentions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings & Films
+parent_type: CourseSection
 parent_uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 title: Notes on Dangerous Liaisons & Cruel Intentions
 uid: e727c41d-5f8b-db72-46bf-befc29156903

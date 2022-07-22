@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section contains the prompts for the Third Essay, which focuses
+  on the novel The Kiss of the Spider Woman.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Essays
+parent_type: CourseSection
 parent_uid: c25bec97-eb35-9edf-7411-fbb08661dbcd
 title: Third Essay
 uid: e952322f-0696-73c6-467a-080371c934be
 ---
 
-![A Spanish poster for the 1985 film 'The Kiss of a Spider Woman.']({{< resource_file dc5b1050-b08f-9a87-e068-17ffa2bcfe05 >}})  
+{{< resource dc5b1050-b08f-9a87-e068-17ffa2bcfe05 >}}  
 
 (A Spanish poster for _Kiss of the Spider Woman_.  
 Image courtesy of [Ricardo Pablo](https://flic.kr/p/p715on) on flickr.  
