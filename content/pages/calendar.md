@@ -293,7 +293,7 @@ Third short essay due three days after Session 20
 Discuss: Short stories by Juan Rulfo
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecturer: [Joaquín Terrones](https://lit.mit.edu/people/jterrones/)
+Guest lecturer: {{% resource_link "448b36da-76ad-4f30-89ba-f5562dfe0178" "Joaquín Terrones" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
